@@ -1,1 +1,1 @@
-Data cannot be uploaded due to Github's exceeded size limit.
+Data cannot be uploaded due to Github's size limit.
